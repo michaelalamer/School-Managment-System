@@ -1,0 +1,54 @@
+﻿<Page x:Class="School_Mangment_Project.Parent_Pages.Contact_Teacher"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:School_Mangment_Project.Parent_Pages"
+      mc:Ignorable="d" 
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      d:DesignHeight="600" d:DesignWidth="774"
+      Title="Contact_Teacher">
+
+    <Grid>
+        <Rectangle Width="600" Height="500" Fill="#0099cc" VerticalAlignment="Center" RadiusY="13.54" RadiusX="13.54" Margin="0,0,0,0">
+            <Rectangle.Effect>
+                <DropShadowEffect BlurRadius="15" Color="#FFBBBBBB" RenderingBias="Quality" ShadowDepth="1"/>
+            </Rectangle.Effect>
+        </Rectangle>
+        <TextBlock FontSize="20" Text="Contact Teacher" Width="150" Height="30" Margin="0,-450,0,0" Foreground="#999999"/>
+        <ComboBox x:Name="courses_combobox" materialDesign:HintAssist.Hint="Please Choose a Course :" Width="180" Height="auto" Margin="-350,-300,0,0" Foreground="Black" >
+            <ComboBoxItem Width="160" Height="auto" Margin="10">
+                <TextBlock Text="ahsdjkasdh" FontSize="18" TextAlignment="Center" Foreground="Black"/>
+            </ComboBoxItem>
+            <ComboBoxItem Width="160" Height="auto" Margin="10">
+                <TextBlock Text="jkshjkfd" FontSize="18" TextAlignment="Center" Foreground="Black"/>
+            </ComboBoxItem>
+            <ComboBoxItem Width="160" Height="auto" Margin="10">
+                <TextBlock Text="mnmcbmnncx" FontSize="18" TextAlignment="Center" Foreground="Black"/>
+            </ComboBoxItem>
+            <ComboBoxItem Width="160" Height="auto" Margin="10">
+                <TextBlock Text="mnmcbmnncx" FontSize="18" TextAlignment="Center" Foreground="Black"/>
+            </ComboBoxItem>
+
+            <ComboBoxItem Width="160" Height="auto" Margin="10">
+                <TextBlock Text="mnmcbmnncx" FontSize="18" TextAlignment="Center" Foreground="Black"/>
+            </ComboBoxItem>
+
+            <ComboBoxItem Width="160" Height="auto" Margin="10">
+                <TextBlock Text="mnmcbmnncx" FontSize="18" TextAlignment="Center" Foreground="Black"/>
+            </ComboBoxItem>
+
+            <ComboBoxItem Width="160" Height="auto" Margin="10">
+                <TextBlock Text="mnmcbmnncx" FontSize="18" TextAlignment="Center" Foreground="Black"/>
+            </ComboBoxItem>
+
+        </ComboBox>
+        <TextBox materialDesign:HintAssist.Hint="Please Type Your Message Here... " Width="450" Height="200" Margin="-78,0,0,0" Background="LightGray" FontSize="18" FontStyle="Italic" VerticalContentAlignment="Top" TextWrapping="Wrap" />
+        <StackPanel Orientation="Vertical" Width="100" Height="80" Margin="480,120,0,0" Background="Gray">
+            <Button x:Name="send" Background="{x:Null}" BorderBrush="{x:Null}" Height="50" Click="send_Click">
+                <materialDesign:PackIcon Kind="Send" Width="50" Height="40"/>
+            </Button>
+            <TextBlock Text="Send" Width="80" FontSize="18" TextAlignment="Center"/>
+        </StackPanel>
+    </Grid>
+</Page>

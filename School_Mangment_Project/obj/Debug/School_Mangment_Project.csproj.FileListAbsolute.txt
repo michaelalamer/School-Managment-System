@@ -1,0 +1,245 @@
+c:\users\michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\MainWindow.g.cs
+c:\users\michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teacher_Page.g.cs
+c:\users\michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\App.g.cs
+c:\users\michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project_MarkupCompile.cache
+c:\users\michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project_MarkupCompile.lref
+c:\users\michael\source\repos\School_Mangment_Project\School_Mangment_Project\bin\Debug\School_Mangment_Project.exe.config
+c:\users\michael\source\repos\School_Mangment_Project\School_Mangment_Project\bin\Debug\School_Mangment_Project.exe
+c:\users\michael\source\repos\School_Mangment_Project\School_Mangment_Project\bin\Debug\School_Mangment_Project.pdb
+c:\users\michael\source\repos\School_Mangment_Project\School_Mangment_Project\bin\Debug\MaterialDesignColors.dll
+c:\users\michael\source\repos\School_Mangment_Project\School_Mangment_Project\bin\Debug\MaterialDesignThemes.Wpf.dll
+c:\users\michael\source\repos\School_Mangment_Project\School_Mangment_Project\bin\Debug\MaterialDesignThemes.Wpf.pdb
+c:\users\michael\source\repos\School_Mangment_Project\School_Mangment_Project\bin\Debug\MaterialDesignThemes.Wpf.xml
+c:\users\michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\App.baml
+c:\users\michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\MainWindow.baml
+c:\users\michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teacher_Page.baml
+c:\users\michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.g.resources
+c:\users\michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.Properties.Resources.resources
+c:\users\michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.csproj.GenerateResource.Cache
+c:\users\michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.csproj.CoreCompileInputs.cache
+c:\users\michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.exe
+c:\users\michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.pdb
+c:\users\michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project_Content.g.cs
+c:\users\michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.csprojResolveAssemblyReference.cache
+C:\Users\Michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\Login_Page.g.cs
+C:\Users\Michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\Login_Page.baml
+C:\Users\Michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attenedance.g.cs
+C:\Users\Michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Search.g.cs
+C:\Users\Michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attenedance.baml
+C:\Users\Michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Search.baml
+C:\Users\Michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attendance_By_Grade.g.cs
+C:\Users\Michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attendance_By_Grade.baml
+C:\Users\Michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attendance_By_SpisficStudent.g.cs
+C:\Users\Michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attendance_By_SpisficStudent.baml
+C:\Users\Michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Profile.g.cs
+C:\Users\Michael\source\repos\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Profile.baml
+E:\School_Mangment_Project\School_Mangment_Project\bin\Debug\School_Mangment_Project.exe.config
+E:\School_Mangment_Project\School_Mangment_Project\bin\Debug\School_Mangment_Project.exe
+E:\School_Mangment_Project\School_Mangment_Project\bin\Debug\School_Mangment_Project.pdb
+E:\School_Mangment_Project\School_Mangment_Project\bin\Debug\MaterialDesignColors.dll
+E:\School_Mangment_Project\School_Mangment_Project\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\School_Mangment_Project\School_Mangment_Project\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\School_Mangment_Project\School_Mangment_Project\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.csprojAssemblyReference.cache
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attendance_By_Grade.g.cs
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attendance_By_SpisficStudent.g.cs
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attenedance.g.cs
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Login_Page.g.cs
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\MainWindow.g.cs
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Profile.g.cs
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Search.g.cs
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teacher_Page.g.cs
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\App.g.cs
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project_Content.g.cs
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project_MarkupCompile.cache
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project_MarkupCompile.lref
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\App.baml
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attendance_By_Grade.baml
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attendance_By_SpisficStudent.baml
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attenedance.baml
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Login_Page.baml
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\MainWindow.baml
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Profile.baml
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Search.baml
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teacher_Page.baml
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.g.resources
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.Properties.Resources.resources
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.csproj.GenerateResource.cache
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.csproj.CoreCompileInputs.cache
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.csproj.CopyComplete
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.exe
+E:\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.pdb
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Courses_Page.g.cs
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Teacher_Page.g.cs
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin_Page.g.cs
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attendance_By_Grade.g.cs
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attendance_By_SpisficStudent.g.cs
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attenedance.g.cs
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Login_Page.g.cs
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Profile.g.cs
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Search.g.cs
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teacher_Page.g.cs
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project_Content.g.cs
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project_MarkupCompile.cache
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project_MarkupCompile.lref
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Parent_Page.g.cs
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\bin\Debug\School_Mangment_Project.exe.config
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\bin\Debug\School_Mangment_Project.exe
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\bin\Debug\School_Mangment_Project.pdb
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\bin\Debug\MaterialDesignColors.dll
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\App.baml
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Courses_Page.baml
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Teacher_Page.baml
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin_Page.baml
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Parent_Page.baml
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attendance_By_Grade.baml
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attendance_By_SpisficStudent.baml
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attenedance.baml
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Login_Page.baml
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Profile.baml
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Search.baml
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teacher_Page.baml
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.g.resources
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.Properties.Resources.resources
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.csproj.CopyComplete
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.exe
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.pdb
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Parent Pages\Attendance.g.cs
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Parent Pages\Attendance.baml
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Student.g.cs
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Student.baml
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Enroll_Student.g.cs
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Enroll_Student.baml
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Profile.g.cs
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Profile.baml
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Parent Pages\Contact_Teacher.g.cs
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Parent Pages\Contact_Teacher.baml
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Parent Pages\Grades.g.cs
+C:\Users\lenovo\Desktop\School_Mangment_Project\School_Mangment_Project\obj\Debug\Parent Pages\Grades.baml
+F:\School_Mangment_Project\School_Mangment_Project\bin\Debug\School_Mangment_Project.exe.config
+F:\School_Mangment_Project\School_Mangment_Project\bin\Debug\School_Mangment_Project.exe
+F:\School_Mangment_Project\School_Mangment_Project\bin\Debug\School_Mangment_Project.pdb
+F:\School_Mangment_Project\School_Mangment_Project\bin\Debug\MaterialDesignColors.dll
+F:\School_Mangment_Project\School_Mangment_Project\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\School_Mangment_Project\School_Mangment_Project\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\School_Mangment_Project\School_Mangment_Project\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.csprojResolveAssemblyReference.cache
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Courses_Page.g.cs
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Enroll_Student.g.cs
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Profile.g.cs
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Student.g.cs
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Teacher_Page.g.cs
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin_Page.g.cs
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\MainWindow.g.cs
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Parent Pages\Attendance.g.cs
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Parent Pages\Contact_Teacher.g.cs
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Parent Pages\Grades.g.cs
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Parent_Page.g.cs
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attendance_By_Grade.g.cs
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attendance_By_SpisficStudent.g.cs
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attenedance.g.cs
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Login_Page.g.cs
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Profile.g.cs
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Search.g.cs
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teacher_Page.g.cs
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\App.g.cs
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project_Content.g.cs
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project_MarkupCompile.cache
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project_MarkupCompile.lref
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\App.baml
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Courses_Page.baml
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Enroll_Student.baml
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Profile.baml
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Student.baml
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Teacher_Page.baml
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin_Page.baml
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\MainWindow.baml
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Parent Pages\Attendance.baml
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Parent Pages\Contact_Teacher.baml
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Parent Pages\Grades.baml
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Parent_Page.baml
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attendance_By_Grade.baml
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attendance_By_SpisficStudent.baml
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attenedance.baml
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Login_Page.baml
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Profile.baml
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Search.baml
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teacher_Page.baml
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.g.resources
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.Properties.Resources.resources
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.csproj.GenerateResource.Cache
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.csproj.CoreCompileInputs.cache
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.exe
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.pdb
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\confirm_Page.g.cs
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\confirm_Page.baml
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\ConfimPerson_page.g.cs
+F:\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\ConfimPerson_page.baml
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\bin\Debug\School_Mangment_Project.exe.config
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\bin\Debug\School_Mangment_Project.exe
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\bin\Debug\School_Mangment_Project.pdb
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\bin\Debug\MaterialDesignColors.dll
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.csprojResolveAssemblyReference.cache
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\ConfimPerson_page.g.cs
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\confirm_Page.g.cs
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Courses_Page.g.cs
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Enroll_Student.g.cs
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Profile.g.cs
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Student.g.cs
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Teacher_Page.g.cs
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin_Page.g.cs
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\MainWindow.g.cs
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Parent Pages\Attendance.g.cs
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Parent Pages\Contact_Teacher.g.cs
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Parent Pages\Grades.g.cs
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Parent_Page.g.cs
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attendance_By_Grade.g.cs
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attendance_By_SpisficStudent.g.cs
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attenedance.g.cs
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Login_Page.g.cs
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Profile.g.cs
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Search.g.cs
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teacher_Page.g.cs
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\App.g.cs
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project_Content.g.cs
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project_MarkupCompile.cache
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project_MarkupCompile.lref
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\App.baml
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\ConfimPerson_page.baml
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\confirm_Page.baml
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Courses_Page.baml
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Enroll_Student.baml
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Profile.baml
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Student.baml
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin Pages\Teacher_Page.baml
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Admin_Page.baml
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\MainWindow.baml
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Parent Pages\Attendance.baml
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Parent Pages\Contact_Teacher.baml
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Parent Pages\Grades.baml
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Parent_Page.baml
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attendance_By_Grade.baml
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attendance_By_SpisficStudent.baml
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Attenedance.baml
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Login_Page.baml
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Profile.baml
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teachers_Pages\Search.baml
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\Teacher_Page.baml
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.g.resources
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.Properties.Resources.resources
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.csproj.GenerateResource.Cache
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.csproj.CoreCompileInputs.cache
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.exe
+E:\fcis\Sana 2\1st Term\projects\School_Mangment_Project\School_Mangment_Project\obj\Debug\School_Mangment_Project.pdb

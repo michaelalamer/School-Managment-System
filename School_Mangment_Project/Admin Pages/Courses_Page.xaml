@@ -1,0 +1,86 @@
+﻿<Page x:Class="School_Mangment_Project.Admin_Pages.Courses_Page"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:School_Mangment_Project.Admin_Pages"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="774"
+      Title="Courses_Page">
+
+    <Grid Background="#FF3580BF">
+        <Rectangle Width="750" Height="500" Fill="#0099cc" VerticalAlignment="Center" RadiusY="13.54" RadiusX="13.54" Margin="0,0,0,0">
+            <Rectangle.Effect>
+                <DropShadowEffect BlurRadius="15" Color="#FFBBBBBB" RenderingBias="Quality" ShadowDepth="1"/>
+            </Rectangle.Effect>
+        </Rectangle>
+        <StackPanel Height="80" VerticalAlignment="Top" Orientation="Horizontal" Width="350" HorizontalAlignment="Left" Margin="10,20,0,0">
+            <TextBox Width="180" materialDesign:HintAssist.Hint="Search :" Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontFamily="Champagne &amp; Limousines" FontStyle="Italic" Margin="10" FontSize="22"/>
+            <Button Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" Background="{x:Null}" BorderBrush="{x:Null}" Padding="0" Width="50" Height="50" Margin="10,30,10,0">
+                <materialDesign:PackIcon Kind="AccountSearch" Width="50" Height="40" Foreground="White" BorderBrush="{x:Null}"/>
+            </Button>
+        </StackPanel>
+        <StackPanel Margin="10,80,10,10" Height="auto" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <TextBox x:Name="CourseName" Width="180"  materialDesign:HintAssist.Hint="Course Name" Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontFamily="Champagne &amp; Limousines" FontStyle="Italic" Margin="10" FontSize="22"/>
+            <ComboBox x:Name="instructor_name" Margin="10" Style="{StaticResource MaterialDesignFloatingHintComboBox}" materialDesign:HintAssist.Hint=" InstructorName" FontFamily="Champagne &amp; Limousines" FontSize="23" SelectionChanged="instructor_name_SelectionChanged"/>
+            <TextBox x:Name="NumofStudent" Width="200" materialDesign:HintAssist.Hint="Number Of Students" Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontFamily="Champagne &amp; Limousines" FontStyle="Italic" Margin="10" FontSize="22"/>
+            <DatePicker x:Name="Start_date" Margin="10" Style="{StaticResource MaterialDesignFloatingHintDatePicker}" materialDesign:HintAssist.Hint="Start Date" FontFamily="Champagne &amp; Limousines" FontSize="23" />
+            <DatePicker x:Name="End_date" Margin="10" Style="{StaticResource MaterialDesignFloatingHintDatePicker}" materialDesign:HintAssist.Hint="End Date" FontFamily="Champagne &amp; Limousines" FontSize="23" />
+            <StackPanel Orientation="Horizontal">
+            <Button x:Name="Add_Button" Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" Background="{x:Null}" BorderBrush="{x:Null}" Padding="0" Margin="25 0 0 0" Foreground="White" Click="Add_Button_Click">
+                 <materialDesign:PackIcon Kind="Add" />
+            </Button>
+                <Button x:Name="Save_Button" Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" Background="{x:Null}" BorderBrush="{x:Null}" Padding="0" Margin="25 0 0 0" Foreground="White" Click="Save_Button_Click">
+                <materialDesign:PackIcon Kind="ContentSave" />
+            </Button>
+                <Button x:Name="Update_Button" Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" Background="{x:Null}" BorderBrush="{x:Null}" Padding="0" Margin="10 0 0 0" Foreground="White" Click="Update_Button_Click">
+                    <materialDesign:PackIcon Kind="Update" />
+                </Button>
+            </StackPanel>
+        <Button Width="180" Content="Show All Courses" FontStyle="Italic" FontSize="18" Click="show_all_courses_Click"/>
+        </StackPanel>
+        <Grid Background="#FF3580BF" Width="450" Height="400" x:Name="alldata" ShowGridLines="True" Margin="250,0,0,30">
+            <DataGrid Background="Gray">
+                
+            </DataGrid>
+        </Grid>
+        <!--<Grid Background="#FF3580BF" Width="450" Height="400" x:Name="alldata" ShowGridLines="True" Margin="250,0,0,30">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" Grid.Column="0" Text="Course Name :" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Grid.Row="0" Grid.Column="1" Text="Instructor Name :" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Grid.Row="0" Grid.Column="2" Text="Students Number :" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Grid.Row="1" Grid.Column="0" Text="Maths" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Grid.Row="1" Grid.Column="1" Text="Mahmoud" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Grid.Row="1" Grid.Column="2" Text="15" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Grid.Row="2" Grid.Column="0" Text="Physiscs" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Grid.Row="2" Grid.Column="1" Text="Ahmad" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Grid.Row="2" Grid.Column="2" Text="10" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Grid.Row="3" Grid.Column="0" Text="Chemistry" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Grid.Row="3" Grid.Column="1" Text="Michael" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Grid.Row="3" Grid.Column="2" Text="20" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Grid.Row="4" Grid.Column="0" Text="Science" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Grid.Row="4" Grid.Column="1" Text="Yasser" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Grid.Row="4" Grid.Column="2" Text="25" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Grid.Row="5" Grid.Column="0" Text="English" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Grid.Row="5" Grid.Column="1" Text="Khaled" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Grid.Row="5" Grid.Column="2" Text="12" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Grid.Row="6" Grid.Column="0" Text="French" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Grid.Row="6" Grid.Column="1" Text="Qotb" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Grid.Row="6" Grid.Column="2" Text="16" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+        </Grid>-->
+    </Grid>
+</Page>
